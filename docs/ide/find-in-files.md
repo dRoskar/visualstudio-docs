@@ -35,7 +35,11 @@ You can use any of the following methods to display **Find in Files** in the **F
 
 1. On the menu bar, choose **Edit**, **Find and Replace**.
 
-1. Choose **Find in Files**.
+2. Choose **Find in Files**.
+
+**OR**
+
+1. Use the CTRL+SHIFT+F keyboard shortcut
 
 To cancel a Find operation, press **Ctrl** + **Break**.
 
